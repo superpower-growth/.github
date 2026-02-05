@@ -1,0 +1,9 @@
+{
+  "name": "Gitleaks Secret Scanner",
+  "description": "Scan your repository for secrets and credentials using Gitleaks",
+  "iconName": "shield",
+  "categories": [
+    "Security",
+    "Code Scanning"
+  ]
+}
